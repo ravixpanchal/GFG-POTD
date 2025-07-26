@@ -3,15 +3,6 @@
 Welcome to my **GFG Problem of the Day** repository!  
 Every day, I solve one coding problem from [GeeksforGeeks - POTD](https://practice.geeksforgeeks.org/problem-of-the-day), and upload my solution here to maintain consistency and track progress.
 
----
-
-## 📁 Folder Structure
-
-Each folder is named like:
-
-
----
-
 ## 🎯 Goals
 
 - Build daily problem-solving discipline ✅  
@@ -20,6 +11,9 @@ Each folder is named like:
 - Archive solutions for future revision 🔍
 
 ---
+
+📬 Contact
+📧 ravi.panchal.kaithi@gmail.com
 
 ## 📜 License (MIT)
 
